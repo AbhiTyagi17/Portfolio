@@ -8,12 +8,12 @@ I am a Software Engineering student passionate about:
 
 - Data Structures & Algorithms
 - Web Development
-- AI & Machine Learning
+- Cloud & Devops
 - Building impactful software solutions
 
 ## Live Demo
 
-[Portfolio Website](https://yourusername.github.io/portfolio/)
+[Portfolio Website](link coming soon...)
 
 ## Built With
 
@@ -59,9 +59,9 @@ npx @tailwindcss/cli -i ./src/input.css -o ./dist/output.css --watch
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/yourprofile
-- GitHub: https://github.com/yourusername
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/abhi-tyagi-522324214/
+- GitHub: https://github.com/AbhiTyagi17
+- Email: cloudy.abhii@gmail.com
 
 ## If you like this project
 
